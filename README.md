@@ -1,7 +1,3 @@
-# 희지 Heeji Lee
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHJ850&count_bg=%23BBFFEB&title_bg=%23E7D3FF&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
 ## Work experience 🤹‍♀️
 
 - (20.09.21 ~ 21.04.07) 빅데이터 시각화를 통한 빅데이터 UI 콘텐츠 개발<br><br>
